@@ -19,7 +19,7 @@ This is my personal portfolio website created to showcase my skills, projects, a
 
 📸 Screenshots
 
-![Portfolio](home.jpg)
+![Portfolio](home.png)
 
 🔗 Live Demo
 https://hariomvishwakarama.me/
